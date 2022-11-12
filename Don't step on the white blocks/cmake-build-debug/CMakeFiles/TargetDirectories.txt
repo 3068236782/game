@@ -1,0 +1,3 @@
+D:/C&C++/game/Don't step on the white blocks/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/C&C++/game/Don't step on the white blocks/cmake-build-debug/CMakeFiles/test.dir
+D:/C&C++/game/Don't step on the white blocks/cmake-build-debug/CMakeFiles/edit_cache.dir
