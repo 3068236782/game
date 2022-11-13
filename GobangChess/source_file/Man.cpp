@@ -3,3 +3,11 @@
 //
 
 #include "../header_file/Man.h"
+
+void Man::init(Chess *chess) {
+
+}
+
+void Man::go() {
+
+}

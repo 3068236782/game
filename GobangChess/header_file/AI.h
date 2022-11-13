@@ -5,9 +5,14 @@
 #ifndef TEST_AI_H
 #define TEST_AI_H
 
+#include "Chess.h"
 
-class AI {
+class AI
+{
+public:
+    void init(Chess *chess);
 
+    void go();
 };
 
 

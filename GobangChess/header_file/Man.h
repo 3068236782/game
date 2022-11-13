@@ -5,9 +5,15 @@
 #ifndef TEST_MAN_H
 #define TEST_MAN_H
 
+#include "Chess.h"
 
-class Man {
+class Man
+{
+public:
 
+    void init(Chess* chess);
+
+    void go();
 };
 
 
