@@ -1,0 +1,3 @@
+D:/C&C++/game/GobangChess/cmake-build-debug/CMakeFiles/GobangChess.dir
+D:/C&C++/game/GobangChess/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/C&C++/game/GobangChess/cmake-build-debug/CMakeFiles/rebuild_cache.dir

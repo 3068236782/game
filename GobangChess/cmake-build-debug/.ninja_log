@@ -1,0 +1,7 @@
+# ninja log v5
+0	249	6902243454068469	CMakeFiles/GobangChess.dir/source_file/Man.cpp.obj	eb6520043b47d550
+106	263	6902243454238019	CMakeFiles/GobangChess.dir/source_file/main.cpp.obj	d1fac354acf3bfbc
+115	281	6902243454407577	CMakeFiles/GobangChess.dir/source_file/ChessGame.cpp.obj	9f610c494934f64f
+136	286	6902243454477385	CMakeFiles/GobangChess.dir/source_file/AI.cpp.obj	8cb518edf6cf43e7
+124	308	6902243454447452	CMakeFiles/GobangChess.dir/source_file/Chess.cpp.obj	f4528417822594d5
+308	465	6902243456212733	GobangChess.exe	5c8904b065c622ef
