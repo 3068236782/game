@@ -1,4 +1,4 @@
-ToolSet: 5.4 (local)@C:\MinGW
+ToolSet: w64 7.0 (local)@c:\TDM-GCC-64
 Options: 
 
 Options:

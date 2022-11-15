@@ -150,6 +150,7 @@ int main()
 
     gameOverHit(200,100);
     getchar();
+
     return 0;
 
 }

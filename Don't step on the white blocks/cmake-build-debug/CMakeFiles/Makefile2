@@ -72,7 +72,7 @@ CMAKE_BINARY_DIR = "D:\C&C++\game\Don't step on the white blocks\cmake-build-deb
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/test.dir/all
+all: CMakeFiles/game.dir/all
 
 .PHONY : all
 
@@ -82,36 +82,36 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/test.dir/clean
+clean: CMakeFiles/game.dir/clean
 
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/test.dir
+# Target rules for target CMakeFiles/game.dir
 
 # All Build rule for target.
-CMakeFiles/test.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\C&C++\game\Don't step on the white blocks\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target test"
-.PHONY : CMakeFiles/test.dir/all
+CMakeFiles/game.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\C&C++\game\Don't step on the white blocks\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target game"
+.PHONY : CMakeFiles/game.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/test.dir/rule: cmake_check_build_system
+CMakeFiles/game.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\C&C++\game\Don't step on the white blocks\cmake-build-debug\CMakeFiles" 2
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/test.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/game.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "D:\C&C++\game\Don't step on the white blocks\cmake-build-debug\CMakeFiles" 0
-.PHONY : CMakeFiles/test.dir/rule
+.PHONY : CMakeFiles/game.dir/rule
 
 # Convenience name for target.
-test: CMakeFiles/test.dir/rule
+game: CMakeFiles/game.dir/rule
 
-.PHONY : test
+.PHONY : game
 
 # clean rule for target.
-CMakeFiles/test.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/clean
-.PHONY : CMakeFiles/test.dir/clean
+CMakeFiles/game.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\game.dir\build.make CMakeFiles/game.dir/clean
+.PHONY : CMakeFiles/game.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
